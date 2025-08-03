@@ -1,16 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa3df24702066c14297a6b4590936b34, type: 3}
-  m_Name: Cowmilk_Date
-  m_EditorClassIdentifier: 
-  resourceName: "\u725B\u5976"
-  icon: {fileID: 21300000, guid: e1d8ff156604c0847b13bf077b8491a5, type: 3}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d4790f66a094470e40f91bf131b004e2308f6164c176fbeb4ac701f397b0e87
+size 508

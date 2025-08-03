@@ -1,16 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa3df24702066c14297a6b4590936b34, type: 3}
-  m_Name: coin_Date
-  m_EditorClassIdentifier: 
-  resourceName: "\u91D1\u5E01"
-  icon: {fileID: 21300000, guid: 9d5a895bb9f724046ad2d5a70ea8e86f, type: 3}
+version https://git-lfs.github.com/spec/v1
+oid sha256:04f1f2080cc77ba03ceb6b58c371b9d107124dde37d5f4c84720e7809741ee69
+size 505
